@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0-alpha.0](https://github.com/Asemirski/lerna-test/compare/v1.1.0-alpha.0...v2.0.0-alpha.0) (2022-04-14)
+
+
+* feat!: added build script ([797e265](https://github.com/Asemirski/lerna-test/commit/797e26589e84b3dad7a4a4afc0378f85bd1a4fef))
+
+
+### BREAKING CHANGES
+
+* build script added
+
+
+
+
+
 # 1.1.0-alpha.0 (2022-04-14)
 
 
